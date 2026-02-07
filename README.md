@@ -123,8 +123,8 @@ The model predicts movie ratings within roughly **±0.87 points** on the 1–10 
 
 ```bash
 # Clone the repository
-git clone https://github.com/ouyale/Movie-Rating-Prediction.git
-cd Movie-Rating-Prediction
+git clone https://github.com/ouyale/Movie-Rating-Prediction-v2.git
+cd Movie-Rating-Prediction-v2
 
 # Install dependencies
 pip install pandas numpy scikit-learn jupyter
